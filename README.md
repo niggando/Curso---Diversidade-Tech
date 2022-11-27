@@ -14,4 +14,4 @@ Programa desenvolvido pela Let's Code by Ada e pela Suzano, distribuindo 250 vag
 
 ## 🚀 Mais Informações
 
-Link do Projeto: **[<Div>ersidade TECH](https://letscode.com.br/processos-seletivos/suzano-diversidade-tech)**
+Link do Projeto: **[Diversidade TECH](https://letscode.com.br/processos-seletivos/suzano-diversidade-tech)**
